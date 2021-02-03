@@ -1,0 +1,42 @@
+{
+"NewsItems" : [
+{	
+	"stocks" : [
+		"Bharti Airtel"
+	],
+	"title" : "December quarter post-tax profit at Airtel's Africa arm up 13% to $116 mn",
+	"body" : "<p>Revenue rises 14% to $2,870 mn; Mobile money revenue up 41%, data revenue rises 27% in constant currency terms.</p>",
+	"category" : "Bharti Airtel",
+	"date_time" : "2021-01-29 15:00:00"
+},
+{	
+	"stocks" : [
+		"State Bank of India"
+	],
+	"title" : "2015 And 2021 Are Completely Different, Says Rajnish Kumar On AQR 2.0",
+	"body" : "<p>Former <b>SBI</b> chairman says AQR 2.0 wont unearth large gaps in bank books.</p>",
+	"category" : "Investor Meeting",
+	"date_time" : "2021-01-05 13:29:25"
+},
+{	
+	"stocks" : [
+		"Maruti Suzuki",
+		"Bajaj Auto"
+	],
+	"title" : "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome",
+	"body" : "<p>Enclosed, please find the schedule of Analyst / Investor meeting / interactions held at Mumbai on 29th January 2021.</p>",
+	"category" : "Investor Meeting",
+	"date_time" : "2021-01-01 08:00:00"
+},
+{	
+	"stocks" : [
+		"Bajaj Finserv",
+		"Bajaj Auto"
+	],
+	"title" : "NIFTY 50. 14,647.85. 366.65 (2.57%) NIFTY NEXT 50. 33,327.10. 665.55 (2.04%)",
+	"body" : "<p>Bajaj Finserv Limited, a part of Bajaj Holdings & Investments Limited, is an Indian financial services company focused on lending, asset management and insurance.</p>",
+	"category" : "Investor Meeting",
+	"date_time" : "2021-01-13 08:57:00"
+}
+]
+}
